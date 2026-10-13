@@ -21,7 +21,7 @@
     <div align="center">
         <h2>Hola Prof Matias</h2>
         <%java.util.Date hoy = new java.util.Date();%>
-        La fecha de hos es: <%=hoy%>
+        La fecha de hoy es: <%=hoy%>
     </div>
 </body>
 </html>
